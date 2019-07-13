@@ -1,0 +1,18 @@
+.logo{
+	background-image: url('../../imgs/chaty.png');
+	background-repeat: no-repeat;
+	background-position: 15%;
+	height: 10vh;
+	margin-left: 28%;
+	margin-right: 0%;
+	margin-top: 7%;
+}
+.titlegame{
+	margin-left: 0%;
+	margin-right: 0%;
+	margin-top: 7.5%;
+	color: #604696;
+	font-size: 57px;
+	font-family: 'Muli', sans-serif;
+  font-weight: 800
+}

@@ -7,11 +7,11 @@ import EachScore from './EachScore'
 class ScoreScreen extends Component {
 	render(){
 		return (
-			<>
+			<div className="col-6">
 			<Header />
 			<TableScore />
 			<EachScore />
-			</>
+			</div>
 		)
 	}
 }

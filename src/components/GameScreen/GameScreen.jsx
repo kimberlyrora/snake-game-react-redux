@@ -9,13 +9,12 @@ import Header from './Header'
 class GameScreen extends Component {
 	render() {
 		return (
-			<>
+			<div>
 				<Header />
-				<Board>
-					<Acorn />
-					<Chipmunk />
-				</Board>
-			</>
+				<Board />
+				<Acorn />
+				<Chipmunk />
+			</div >
 		)
 	}
 }

@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
-// import 'Header.css'
+import './HeaderScore.css'
 
 class Header extends Component {
 	render(){
 		return (
-			<>
-			<h1>HEADER Score</h1>
-			</>
+			<div className="col-12 title">
+			<p>Puntajes</p>
+			</div>
 		)
 	}
 }
